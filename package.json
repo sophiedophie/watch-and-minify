@@ -1,0 +1,17 @@
+{
+  "name": "minify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js ./test",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-minify": "^3.6.0",
+    "node-sass": "^4.10.0"
+  }
+}
